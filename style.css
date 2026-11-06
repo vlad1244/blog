@@ -271,3 +271,14 @@ th{font-weight:700;background:var(--soft)}
 .city img{width:calc(100% - 32px);margin:0 16px 16px;border-radius:var(--r-sm);border:1px solid var(--line)}
 @media (max-width:960px){.cities{grid-template-columns:1fr 1fr}}
 @media (max-width:600px){.cities{grid-template-columns:1fr}.city summary,.cities-total{min-height:0}}
+/* страницы городов */
+.city-hero{grid-template-columns:1.5fr 1fr}
+.city-case{background:var(--grad);color:#fff;border-radius:var(--r);padding:32px;display:flex;flex-direction:column;justify-content:flex-end;min-height:240px;box-shadow:0 16px 40px -20px rgba(86,128,233,.8)}
+.city-case b{font:600 clamp(40px,5vw,60px)/1 var(--font-head);letter-spacing:-.02em}
+.city-case span{margin-top:10px;opacity:.92;font-size:15px}
+.city-offer{grid-template-columns:1.3fr 1fr}
+.city-body{max-width:none;margin-top:16px}
+.city-body .content{max-width:760px}
+.city-shot{margin:8px 0 0}
+.city-shot img{min-width:700px}
+@media (max-width:960px){.city-hero,.city-offer{grid-template-columns:1fr}}
