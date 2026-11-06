@@ -282,3 +282,11 @@ th{font-weight:700;background:var(--soft)}
 .city-shot{margin:8px 0 0}
 .city-shot img{min-width:700px}
 @media (max-width:960px){.city-hero,.city-offer{grid-template-columns:1fr}}
+/* призывы внутри страницы */
+.inline-cta{display:flex;flex-wrap:wrap;align-items:center;gap:12px 18px;margin:20px 0 0}
+.inline-cta span{color:var(--muted);font-size:15px}
+/* плавающая кнопка WhatsApp */
+.wa-float{position:fixed;right:18px;bottom:18px;z-index:20;display:flex;align-items:center;gap:8px;padding:12px 18px 12px 14px;border-radius:999px;background:#25d366;color:#fff;text-decoration:none;font-weight:700;font-size:15px;box-shadow:0 10px 30px -8px rgba(37,211,102,.7)}
+.wa-float:hover{filter:brightness(1.05)}
+.foot{padding-bottom:90px}
+@media (max-width:600px){.wa-float span{display:none}.wa-float{padding:14px;right:14px;bottom:14px}.inline-cta .btn{width:100%;text-align:center}}
