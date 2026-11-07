@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" font-family="-apple-system, 'Segoe UI', Roboto, Arial, sans-serif">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1"><stop offset="0" stop-color="#5680e9"/><stop offset="1" stop-color="#5ab9ea"/></linearGradient>
+    <linearGradient id="g2" x1="0" x2="1"><stop offset="0" stop-color="#5ab9ea"/><stop offset="1" stop-color="#84ceeb"/></linearGradient>
+    <linearGradient id="g3" x1="0" x2="1"><stop offset="0" stop-color="#8860d0"/><stop offset="1" stop-color="#5680e9"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="28" fill="#f6f8ff"/>
+  <text x="64" y="92" font-size="40" font-weight="700" fill="#1c2350">Из 100 человек, написавших по рекламе</text>
+  <text x="64" y="138" font-size="24" fill="#56608a">Студия лазерной эпиляции в Узбекистане, октябрь 2026</text>
+
+  <rect x="64" y="186" width="760" height="96" rx="18" fill="url(#g1)"/>
+  <text x="96" y="248" font-size="44" font-weight="700" fill="#fff">100</text>
+  <text x="196" y="246" font-size="26" fill="#fff">написали в директ</text>
+
+  <rect x="64" y="306" width="585" height="96" rx="18" fill="url(#g2)"/>
+  <text x="96" y="368" font-size="44" font-weight="700" fill="#fff">77</text>
+  <text x="176" y="366" font-size="26" fill="#fff">написали 2+ сообщения</text>
+  <text x="680" y="346" font-size="30" font-weight="700" fill="#5680e9">−23</text>
+  <text x="680" y="380" font-size="22" fill="#56608a">оборвались после первого</text>
+
+  <rect x="64" y="426" width="433" height="96" rx="18" fill="url(#g3)"/>
+  <text x="96" y="488" font-size="44" font-weight="700" fill="#fff">57</text>
+  <text x="176" y="486" font-size="26" fill="#fff">ответили администратору</text>
+  <text x="528" y="466" font-size="30" font-weight="700" fill="#8860d0">−20</text>
+  <text x="528" y="500" font-size="22" fill="#56608a">зона администратора: скорость</text>
+  <text x="528" y="528" font-size="22" fill="#56608a">и первый ответ, а не реклама</text>
+
+  <text x="64" y="590" font-size="18" fill="#56608a">Заявки и 2+ сообщения — статистика Meta, ответы — данные салона · vladtarget.com</text>
+</svg>

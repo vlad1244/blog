@@ -290,3 +290,6 @@ th{font-weight:700;background:var(--soft)}
 .wa-float:hover{filter:brightness(1.05)}
 .foot{padding-bottom:90px}
 @media (max-width:600px){.wa-float span{display:none}.wa-float{padding:14px;right:14px;bottom:14px}.inline-cta .btn{width:100%;text-align:center}}
+figure.chart{margin:28px 0}
+figure.chart img{display:block;width:100%;height:auto;border-radius:18px;border:1px solid var(--line)}
+figure.chart figcaption{margin-top:8px;font-size:.88rem;color:var(--muted)}
